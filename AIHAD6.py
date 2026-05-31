@@ -1362,7 +1362,7 @@ elif page == "ATHENA":
 
     # URLs
     athena_url = "https://athena-heuristic.streamlit.app/"
-    paper_url = "https://www.tandfonline.com/doi/abs/10.1080/15459624.2022.2132259?journalCode=uoeh20"
+    paper_url = "https://docs.google.com/document/d/1GOCPovtH6T6GZzLZpa_twE6ZRIVIG69z/edit?usp=sharing&ouid=116094106714963469191&rtpof=true&sd=true"
 
     # Generate QR codes
     athena_qr = generate_qr(athena_url)
